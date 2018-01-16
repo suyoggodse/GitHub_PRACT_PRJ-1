@@ -2,9 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-//There are no otput line
-		//This is no line
-
+System.out.println("Suyog PGM1");
 	}
 
 	
